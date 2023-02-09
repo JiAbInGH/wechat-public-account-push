@@ -9,6 +9,8 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
   APP_ID: '',
+  USE_PASSAGE: 'push-deer',
+  id:'PDU20052TKgclE6YPsBXHP2T0TzVR2XZI2JaFyoM5',
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
